@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-#datos{
+#datos {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -20,20 +20,18 @@ h2 {
     margin: -3px;
 }
 
-#datos{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 300px;
-    }
-   
     
 #datos h2{
         font-size: 3rem;
         text-align: center;
     }
-   
+    
+/*h2{
+    font-size: 3rem;
+    text-align: center;
+}
+*/
+
 .general{
         display: flex;
         flex-wrap: wrap;
